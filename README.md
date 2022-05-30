@@ -24,7 +24,7 @@ Check out [API LIVE DEMO](https://european-visitors-backend.herokuapp.com/) here
 1. Git Clone
 
 ```
-git clone https://github.com/adarshs002/Super-sports-SD.git
+https://github.com/europeanvisitors/europeanvisitors.git
 ```
 
 2. Backend setting
